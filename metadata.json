@@ -1,0 +1,9 @@
+{
+  "name": "Talha Chatbot",
+  "description": "A comprehensive application demonstrating the diverse capabilities of the Gemini API, including text and code generation, image and video understanding/generation, real-time voice conversations, audio transcription, text-to-speech, and grounded search.",
+  "requestFramePermissions": [
+    "microphone",
+    "camera",
+    "geolocation"
+  ]
+}
